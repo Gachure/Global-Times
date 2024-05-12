@@ -1,0 +1,34 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "title": "Breaking: New Study on Climate Change",
+      "content": "A new study shows significant effects of climate change..."
+    },
+    {
+      "id": "2",
+      "title": "Tech News: New AI Technology",
+      "content": "A recent AI breakthrough in natural language processing..."
+    },
+    {
+      "id": "a08c",
+      "title": "PROJECT PHASE 2",
+      "content": "Moringa students have been doing their project this week"
+    },
+    {
+      "id": "3ff3",
+      "title": "projet phase 2",
+      "content": "All students to do their projects "
+    },
+    {
+      "id": "04cd",
+      "title": "Floods in Kenya",
+      "content": "The President will issue a state of emergency"
+    },
+    {
+      "id": "5565",
+      "title": "Project Pitch",
+      "content": "All students to submit their project pitch"
+    }
+  ]
+}

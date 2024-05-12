@@ -1,4 +1,4 @@
-![Screenshot from 2024-05-13 01-05-46](https://github.com/Gachure/Global-Times/assets/152380375/46d8797f-f6f9-4886-b612-de2a292970d0)
+![image](https://github.com/Gachure/Global-Times/assets/152380375/f7c81b17-5e26-484d-9404-971de49d9b14)
 
 # Global-Times
 The application has been developed using React, Javascript, and CSS, with a strong emphasis on visual appeal and user-friendliness. Its modern design is optimized for accessibility and ease of use, making it an ideal choice for users of all skill levels.
@@ -21,4 +21,3 @@ The application has been developed using React, Javascript, and CSS, with a stro
 We would love to hear your suggestions for improvements or any bugs you may have found! Don't hesitate to open an issue or submit a pull request - we are always ready to receive contributions from our users.
 ## License
 The MIT License is applied to this project, which provides users with the freedom to use, modify, and distribute the code without any restrictions.
-
