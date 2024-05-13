@@ -11,9 +11,9 @@ const LatestNews = () => {
     const fetchNews = async () => {
       try {
         const response = await axios.get(
-          `https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=b37a6287ad084a359344df94eda9828a`
+          `https://gnews.io/api/v4/search?q=${category}&token=7ac74eb2087fc816fcb0371d5c2a9cbe`
         );
-        setArticles(response.data.articles);
+        setArticles(response.data.articles || []);
         setError(null);
       } catch (err) {
         console.error('Error fetching news:', err);
@@ -42,9 +42,9 @@ const LatestNews = () => {
         <div className="news-grid">
           {articles.map((article, index) => (
             <div key={index} className="news-article">
-              {article.urlToImage && (
+              {article.image && (
                 <img
-                  src={article.urlToImage}
+                  src={article.image}
                   alt={article.title}
                   className="news-image"
                 />
