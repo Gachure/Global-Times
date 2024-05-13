@@ -5,9 +5,9 @@ The application has been developed using React, Javascript, and CSS, with a stro
 ## Features
 **Home Page**: A welcoming introduction to the application, guiding users to explore the latest news or add their own articles.
 
-***Latest News Page**: Displays the most recent news articles fetched from the News API, organized in a clean and structured layout.
+**Latest News Page**: Displays the most recent news articles fetched from the News API, organized in a clean and structured layout.
 
-***Add News Page**: Allows users to submit new news articles via a simple form. The form includes basic validation to ensure the content is suitable for submission.
+**Add News Page**: Allows users to submit new news articles via a simple form. The form includes basic validation to ensure the content is suitable for submission.
 ## Library Used
 
 1. [Google Font](https://fonts.google.com/)
