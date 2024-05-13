@@ -19,5 +19,8 @@ The application has been developed using React, Javascript, and CSS, with a stro
 3. Wrrite ```npm start``` to open the application on the browser.
 ## Contributing
 We would love to hear your suggestions for improvements or any bugs you may have found! Don't hesitate to open an issue or submit a pull request - we are always ready to receive contributions from our users.
+## Author
+Victor Gachure. Email me at;[victor.gachure@student.moringaschool.com]
+
 ## License
 The MIT License is applied to this project, which provides users with the freedom to use, modify, and distribute the code without any restrictions.
